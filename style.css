@@ -1,11 +1,27 @@
 body {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
 }
 
 .main {
-    background-color: #aff;
+  background-color: #aff;
 }
 
-.test{
-    color: blue;
+.test {
+  color: blue;
+}
+
+.test-2 {
+  color: red;
+}
+
+.test-3 {
+  color: yellow;
+}
+
+.test-4 {
+  color: green;
+}
+
+.test-5 {
+  color: purple;
 }
