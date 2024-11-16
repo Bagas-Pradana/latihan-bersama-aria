@@ -5,3 +5,23 @@ body {
 .main {
     background-color: #aff;
 }
+
+.test{
+    color: blue;
+}
+
+.test-2 {
+    color: red;
+}
+
+.test-3 {
+    color: yellow;
+}
+
+.test-4 {
+    color: green;
+}
+
+.test-5 {
+    color: purple;
+}
